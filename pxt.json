@@ -1,0 +1,30 @@
+{
+    "name": "Car Racing Game",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "radio-broadcast": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.10",
+        "tag": "v2.0.10",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/9b7b5f1d10f133bc9c14ef24e1b8a67333f12c29",
+        "target": "7.0.61",
+        "pxt": "5.15.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
